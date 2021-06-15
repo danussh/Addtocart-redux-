@@ -1,0 +1,13 @@
+.wrapper {
+  position: relative;
+  cursor: pointer;
+}
+.wrapper span {
+  width: 30;
+  position: absolute;
+  top: -15px;
+  right: -16px;
+  width: 20px;
+  border-radius: 50px;
+  cursor: pointer;
+}
